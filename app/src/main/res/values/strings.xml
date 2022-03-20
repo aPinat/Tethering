@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tethering</string>
+    <string name="get_tethered_interfaces">Get Tethered Interfaces</string>
+    <string name="start_tethering">Start Tethering</string>
+    <string name="tethering_started">Tethering started</string>
+    <string name="tethering_failed">Tethering failed</string>
+</resources>

@@ -1,0 +1,13 @@
+# top-most EditorConfig file
+root = true
+
+# All files
+[*]
+indent_style = space
+# don't set indent_size here, varies by file type
+# don't set tab_width here, varies by file type
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+max_line_length = 200
